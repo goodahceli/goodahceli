@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arion Celimen</h1>
-<h3 align="center">A passionate and still learning developer from Makati, Philippines</h3>
+<h3 align="center">I'm hoping to break into the Data Science industry. Currently, I'm learning to become a Data Analyst. My future aspirations is to become a Data Scientist.</h3>
 
-- 🌱 I’m currently learning **Python and JS**
+- 🌱 I’m currently learning **Python, Excel, PowerBI, and SQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
